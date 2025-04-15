@@ -5,7 +5,7 @@ This landing page is an exercice in [The Odin Project](https://www.theodinprojec
 ## Requirements
 
 - View TOP's requirements [here](https://www.theodinproject.com/lessons/foundations-landing-page)
-- Click [here]() for a view of the page
+- Click [here](https://lindaluu13.github.io/landing-page/index.html) for a view of the page
 
 ## What was learned and practiced
 - To commit often and early according to [TOP's course](https://lindaluu13.github.io/landing-page/)
